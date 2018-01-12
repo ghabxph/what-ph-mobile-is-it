@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515772256 source:d:\dev\non-www\cpp\what-ph-mobile-is-it\main.cpp
+	<iostream>
+	<string>
+	<map>
+
